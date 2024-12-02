@@ -3,6 +3,7 @@
 [Link to the exercises](https://github.com/ilkkamtk/JavaScript-english/blob/main/assignments.md)
 
 Current Progress (Completed Exercises and Awarded Points):
+
   Module 1:
   
     1, 1p

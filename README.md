@@ -25,7 +25,7 @@ Current Progress (Completed Exercises and Awarded Points):
     
     10, 5p
 
-    **Total: 27p**
+  **Total: 27p**
 
   Module 2:
 
@@ -49,7 +49,7 @@ Current Progress (Completed Exercises and Awarded Points):
     
     10, 8p
     
-    **Total 27p**
+  **Total 27p**
 
   Module 3:
 
@@ -75,7 +75,7 @@ Current Progress (Completed Exercises and Awarded Points):
     
     11, 6p
     
-    **Total 32p**
+  **Total 32p**
 
   Module 4:
   

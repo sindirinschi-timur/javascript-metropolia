@@ -79,6 +79,20 @@ Current Progress (Completed Exercises and Awarded Points):
   **Total 32p**
 
   Module 4:
+
+    1, 1p
+
+    2, 3p
+    
+    3, 7p
+    
+    4, 2p
+    
+    5, 2p
+    
+    6, 4p
+
+  **Total: 19p**
   
   
 
